@@ -1,0 +1,8 @@
+{
+  "name": "002- مقایسه ربات های تحلیل مالی",
+  "description": "جدول مقایسه تخصصی ربات‌های تحلیل‌گر بازارهای مالی برای پلن‌های Starter، PRO و ULTRA",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
